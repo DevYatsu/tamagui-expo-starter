@@ -11,13 +11,13 @@ To use this starter template:
 2. Install dependencies
 
    ```bash
-   npm install
+   pnpm install
    ```
 
 3. Start the app
 
    ```bash
-    npx expo start
+    pnpm start
    ```
 
 4. Have fun!
