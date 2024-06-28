@@ -21,3 +21,12 @@ To use this starter template:
    ```
 
 4. Have fun!
+
+## List of packages
+
+Here are listed the packages add in this template in order for tamagui to work, obviously without counting all the expo packages add when using create-expo-app:
+
+- @tamagui/babel-plugin
+- @tamagui
+- @tamagui/config
+- expo-font
